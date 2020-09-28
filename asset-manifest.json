@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/https//V1Zak.github.io/Cats_Search_React/static/css/main.906947e6.chunk.css",
-    "main.js": "/https//V1Zak.github.io/Cats_Search_React/static/js/main.8ab2da88.chunk.js",
-    "main.js.map": "/https//V1Zak.github.io/Cats_Search_React/static/js/main.8ab2da88.chunk.js.map",
-    "runtime-main.js": "/https//V1Zak.github.io/Cats_Search_React/static/js/runtime-main.22fa473a.js",
-    "runtime-main.js.map": "/https//V1Zak.github.io/Cats_Search_React/static/js/runtime-main.22fa473a.js.map",
-    "static/js/2.dde2aace.chunk.js": "/https//V1Zak.github.io/Cats_Search_React/static/js/2.dde2aace.chunk.js",
-    "static/js/2.dde2aace.chunk.js.map": "/https//V1Zak.github.io/Cats_Search_React/static/js/2.dde2aace.chunk.js.map",
-    "index.html": "/https//V1Zak.github.io/Cats_Search_React/index.html",
-    "precache-manifest.5ae33d85d85f1e218eee46dda97902ca.js": "/https//V1Zak.github.io/Cats_Search_React/precache-manifest.5ae33d85d85f1e218eee46dda97902ca.js",
-    "service-worker.js": "/https//V1Zak.github.io/Cats_Search_React/service-worker.js",
-    "static/css/main.906947e6.chunk.css.map": "/https//V1Zak.github.io/Cats_Search_React/static/css/main.906947e6.chunk.css.map",
-    "static/js/2.dde2aace.chunk.js.LICENSE.txt": "/https//V1Zak.github.io/Cats_Search_React/static/js/2.dde2aace.chunk.js.LICENSE.txt"
+    "main.css": "/Cats_Search_React/static/css/main.906947e6.chunk.css",
+    "main.js": "/Cats_Search_React/static/js/main.cbc1ee34.chunk.js",
+    "main.js.map": "/Cats_Search_React/static/js/main.cbc1ee34.chunk.js.map",
+    "runtime-main.js": "/Cats_Search_React/static/js/runtime-main.f67cf551.js",
+    "runtime-main.js.map": "/Cats_Search_React/static/js/runtime-main.f67cf551.js.map",
+    "static/js/2.dde2aace.chunk.js": "/Cats_Search_React/static/js/2.dde2aace.chunk.js",
+    "static/js/2.dde2aace.chunk.js.map": "/Cats_Search_React/static/js/2.dde2aace.chunk.js.map",
+    "index.html": "/Cats_Search_React/index.html",
+    "precache-manifest.271b160d9d31636600f35cb432f27213.js": "/Cats_Search_React/precache-manifest.271b160d9d31636600f35cb432f27213.js",
+    "service-worker.js": "/Cats_Search_React/service-worker.js",
+    "static/css/main.906947e6.chunk.css.map": "/Cats_Search_React/static/css/main.906947e6.chunk.css.map",
+    "static/js/2.dde2aace.chunk.js.LICENSE.txt": "/Cats_Search_React/static/js/2.dde2aace.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.22fa473a.js",
+    "static/js/runtime-main.f67cf551.js",
     "static/js/2.dde2aace.chunk.js",
     "static/css/main.906947e6.chunk.css",
-    "static/js/main.8ab2da88.chunk.js"
+    "static/js/main.cbc1ee34.chunk.js"
   ]
 }
